@@ -175,18 +175,3 @@ Nos experimentos com obstáculos, as instâncias são validadas antes da execuç
 A validação é feita por meio de uma busca em largura, considerando apenas se existe caminho entre a origem e o destino. Os custos das células não são considerados nessa etapa, pois o objetivo é apenas garantir conectividade.
 
 Caso uma instância não possua caminho válido entre origem e destino, ela é descartada e uma nova instância é gerada.
-
-## Observação sobre visualização
-
-A visualização dos caminhos foi removida do projeto, pois no enunciado ela aparece apenas como uma dica, não como requisito obrigatório.
-
-O foco principal do trabalho está na geração dos dados, execução dos algoritmos e análise dos resultados no relatório.
-
-## Entrega
-
-Para a entrega, devem ser incluídos:
-
-- código-fonte do projeto;
-- instâncias geradas;
-- resultados em CSV;
-- relatório em PDF com a análise dos experimentos.
