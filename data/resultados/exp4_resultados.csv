@@ -1,0 +1,241 @@
+codigo_entrada,densidade_obstaculos,algoritmo,estados_gerados,estados_visitados,custo_total,sucesso
+E4_10_00,0.1,SdE Maior Aclive,26,8,32,True
+E4_10_00,0.1,Busca Gulosa,26,8,32,True
+E4_10_00,0.1,A*,179,52,32,True
+E4_10_01,0.1,SdE Maior Aclive,31,9,39,True
+E4_10_01,0.1,Busca Gulosa,31,9,39,True
+E4_10_01,0.1,A*,224,65,38,True
+E4_10_02,0.1,SdE Maior Aclive,35,10,,False
+E4_10_02,0.1,Busca Gulosa,55,17,79,True
+E4_10_02,0.1,A*,533,154,59,True
+E4_10_03,0.1,SdE Maior Aclive,22,8,29,True
+E4_10_03,0.1,Busca Gulosa,22,8,29,True
+E4_10_03,0.1,A*,110,33,27,True
+E4_10_04,0.1,SdE Maior Aclive,8,3,8,True
+E4_10_04,0.1,Busca Gulosa,8,3,8,True
+E4_10_04,0.1,A*,12,4,8,True
+E4_10_05,0.1,SdE Maior Aclive,19,6,18,True
+E4_10_05,0.1,Busca Gulosa,19,6,18,True
+E4_10_05,0.1,A*,51,17,17,True
+E4_10_06,0.1,SdE Maior Aclive,55,16,60,True
+E4_10_06,0.1,Busca Gulosa,55,16,60,True
+E4_10_06,0.1,A*,455,134,58,True
+E4_10_07,0.1,SdE Maior Aclive,30,9,41,True
+E4_10_07,0.1,Busca Gulosa,30,9,41,True
+E4_10_07,0.1,A*,130,40,35,True
+E4_10_08,0.1,SdE Maior Aclive,18,6,20,True
+E4_10_08,0.1,Busca Gulosa,18,6,20,True
+E4_10_08,0.1,A*,75,22,20,True
+E4_10_09,0.1,SdE Maior Aclive,19,7,27,True
+E4_10_09,0.1,Busca Gulosa,19,7,27,True
+E4_10_09,0.1,A*,77,23,21,True
+E4_10_10,0.1,SdE Maior Aclive,21,7,25,True
+E4_10_10,0.1,Busca Gulosa,21,7,25,True
+E4_10_10,0.1,A*,94,27,22,True
+E4_10_11,0.1,SdE Maior Aclive,11,4,16,True
+E4_10_11,0.1,Busca Gulosa,11,4,16,True
+E4_10_11,0.1,A*,46,13,16,True
+E4_10_12,0.1,SdE Maior Aclive,27,8,,False
+E4_10_12,0.1,Busca Gulosa,57,17,73,True
+E4_10_12,0.1,A*,330,96,54,True
+E4_10_13,0.1,SdE Maior Aclive,18,6,22,True
+E4_10_13,0.1,Busca Gulosa,18,6,22,True
+E4_10_13,0.1,A*,76,24,21,True
+E4_10_14,0.1,SdE Maior Aclive,44,13,58,True
+E4_10_14,0.1,Busca Gulosa,44,13,58,True
+E4_10_14,0.1,A*,311,89,57,True
+E4_10_15,0.1,SdE Maior Aclive,51,14,67,True
+E4_10_15,0.1,Busca Gulosa,51,14,67,True
+E4_10_15,0.1,A*,439,125,50,True
+E4_10_16,0.1,SdE Maior Aclive,50,15,,False
+E4_10_16,0.1,Busca Gulosa,61,19,88,True
+E4_10_16,0.1,A*,647,186,62,True
+E4_10_17,0.1,SdE Maior Aclive,19,6,23,True
+E4_10_17,0.1,Busca Gulosa,19,6,23,True
+E4_10_17,0.1,A*,63,18,18,True
+E4_10_18,0.1,SdE Maior Aclive,27,9,,False
+E4_10_18,0.1,Busca Gulosa,63,21,95,True
+E4_10_18,0.1,A*,626,183,83,True
+E4_10_19,0.1,SdE Maior Aclive,53,15,,False
+E4_10_19,0.1,Busca Gulosa,64,19,89,True
+E4_10_19,0.1,A*,646,189,65,True
+E4_20_00,0.2,SdE Maior Aclive,20,7,25,True
+E4_20_00,0.2,Busca Gulosa,20,7,25,True
+E4_20_00,0.2,A*,107,34,25,True
+E4_20_01,0.2,SdE Maior Aclive,16,5,,False
+E4_20_01,0.2,Busca Gulosa,42,14,43,True
+E4_20_01,0.2,A*,220,73,43,True
+E4_20_02,0.2,SdE Maior Aclive,2,1,,False
+E4_20_02,0.2,Busca Gulosa,37,13,43,True
+E4_20_02,0.2,A*,201,62,43,True
+E4_20_03,0.2,SdE Maior Aclive,42,13,56,True
+E4_20_03,0.2,Busca Gulosa,42,13,56,True
+E4_20_03,0.2,A*,223,71,45,True
+E4_20_04,0.2,SdE Maior Aclive,13,4,,False
+E4_20_04,0.2,Busca Gulosa,56,20,56,True
+E4_20_04,0.2,A*,213,70,56,True
+E4_20_05,0.2,SdE Maior Aclive,52,16,,False
+E4_20_05,0.2,Busca Gulosa,71,23,104,True
+E4_20_05,0.2,A*,484,162,73,True
+E4_20_06,0.2,SdE Maior Aclive,20,6,,False
+E4_20_06,0.2,Busca Gulosa,48,15,57,True
+E4_20_06,0.2,A*,307,100,55,True
+E4_20_07,0.2,SdE Maior Aclive,31,10,42,True
+E4_20_07,0.2,Busca Gulosa,31,10,42,True
+E4_20_07,0.2,A*,260,80,40,True
+E4_20_08,0.2,SdE Maior Aclive,22,7,28,True
+E4_20_08,0.2,Busca Gulosa,22,7,28,True
+E4_20_08,0.2,A*,85,26,21,True
+E4_20_09,0.2,SdE Maior Aclive,40,12,,False
+E4_20_09,0.2,Busca Gulosa,57,18,77,True
+E4_20_09,0.2,A*,288,98,57,True
+E4_20_10,0.2,SdE Maior Aclive,21,6,,False
+E4_20_10,0.2,Busca Gulosa,42,13,42,True
+E4_20_10,0.2,A*,286,90,42,True
+E4_20_11,0.2,SdE Maior Aclive,8,4,12,True
+E4_20_11,0.2,Busca Gulosa,8,4,12,True
+E4_20_11,0.2,A*,15,6,12,True
+E4_20_12,0.2,SdE Maior Aclive,28,10,38,True
+E4_20_12,0.2,Busca Gulosa,28,10,38,True
+E4_20_12,0.2,A*,118,42,38,True
+E4_20_13,0.2,SdE Maior Aclive,22,7,31,True
+E4_20_13,0.2,Busca Gulosa,22,7,31,True
+E4_20_13,0.2,A*,110,34,27,True
+E4_20_14,0.2,SdE Maior Aclive,15,6,,False
+E4_20_14,0.2,Busca Gulosa,45,15,53,True
+E4_20_14,0.2,A*,128,44,51,True
+E4_20_15,0.2,SdE Maior Aclive,39,15,,False
+E4_20_15,0.2,Busca Gulosa,69,24,105,True
+E4_20_15,0.2,A*,337,104,82,True
+E4_20_16,0.2,SdE Maior Aclive,42,13,,False
+E4_20_16,0.2,Busca Gulosa,58,19,84,True
+E4_20_16,0.2,A*,374,120,76,True
+E4_20_17,0.2,SdE Maior Aclive,12,5,22,True
+E4_20_17,0.2,Busca Gulosa,12,5,22,True
+E4_20_17,0.2,A*,95,28,22,True
+E4_20_18,0.2,SdE Maior Aclive,20,8,33,True
+E4_20_18,0.2,Busca Gulosa,20,8,33,True
+E4_20_18,0.2,A*,75,24,28,True
+E4_20_19,0.2,SdE Maior Aclive,16,6,21,True
+E4_20_19,0.2,Busca Gulosa,16,6,21,True
+E4_20_19,0.2,A*,57,19,21,True
+E4_30_00,0.3,SdE Maior Aclive,9,3,,False
+E4_30_00,0.3,Busca Gulosa,40,14,43,True
+E4_30_00,0.3,A*,162,58,43,True
+E4_30_01,0.3,SdE Maior Aclive,5,2,,False
+E4_30_01,0.3,Busca Gulosa,49,18,80,True
+E4_30_01,0.3,A*,319,115,71,True
+E4_30_02,0.3,SdE Maior Aclive,42,13,,False
+E4_30_02,0.3,Busca Gulosa,95,33,89,True
+E4_30_02,0.3,A*,354,127,86,True
+E4_30_03,0.3,SdE Maior Aclive,9,3,,False
+E4_30_03,0.3,Busca Gulosa,33,13,49,True
+E4_30_03,0.3,A*,145,56,49,True
+E4_30_04,0.3,SdE Maior Aclive,5,2,,False
+E4_30_04,0.3,Busca Gulosa,142,51,131,True
+E4_30_04,0.3,A*,339,123,124,True
+E4_30_05,0.3,SdE Maior Aclive,13,6,,False
+E4_30_05,0.3,Busca Gulosa,54,23,67,True
+E4_30_05,0.3,A*,104,42,67,True
+E4_30_06,0.3,SdE Maior Aclive,25,9,39,True
+E4_30_06,0.3,Busca Gulosa,25,9,39,True
+E4_30_06,0.3,A*,171,58,39,True
+E4_30_07,0.3,SdE Maior Aclive,32,10,,False
+E4_30_07,0.3,Busca Gulosa,53,19,75,True
+E4_30_07,0.3,A*,310,110,72,True
+E4_30_08,0.3,SdE Maior Aclive,13,4,,False
+E4_30_08,0.3,Busca Gulosa,49,16,51,True
+E4_30_08,0.3,A*,220,79,51,True
+E4_30_09,0.3,SdE Maior Aclive,17,5,,False
+E4_30_09,0.3,Busca Gulosa,43,15,53,True
+E4_30_09,0.3,A*,185,67,51,True
+E4_30_10,0.3,SdE Maior Aclive,18,6,,False
+E4_30_10,0.3,Busca Gulosa,82,29,82,True
+E4_30_10,0.3,A*,388,140,75,True
+E4_30_11,0.3,SdE Maior Aclive,15,6,25,True
+E4_30_11,0.3,Busca Gulosa,15,6,25,True
+E4_30_11,0.3,A*,41,16,25,True
+E4_30_12,0.3,SdE Maior Aclive,9,4,,False
+E4_30_12,0.3,Busca Gulosa,141,56,144,True
+E4_30_12,0.3,A*,330,128,103,True
+E4_30_13,0.3,SdE Maior Aclive,6,3,,False
+E4_30_13,0.3,Busca Gulosa,25,11,36,True
+E4_30_13,0.3,A*,77,28,36,True
+E4_30_14,0.3,SdE Maior Aclive,41,11,,False
+E4_30_14,0.3,Busca Gulosa,108,35,79,True
+E4_30_14,0.3,A*,307,106,76,True
+E4_30_15,0.3,SdE Maior Aclive,16,6,22,True
+E4_30_15,0.3,Busca Gulosa,16,6,22,True
+E4_30_15,0.3,A*,40,15,22,True
+E4_30_16,0.3,SdE Maior Aclive,20,7,,False
+E4_30_16,0.3,Busca Gulosa,63,23,77,True
+E4_30_16,0.3,A*,378,143,72,True
+E4_30_17,0.3,SdE Maior Aclive,12,4,,False
+E4_30_17,0.3,Busca Gulosa,46,16,64,True
+E4_30_17,0.3,A*,275,92,52,True
+E4_30_18,0.3,SdE Maior Aclive,13,4,,False
+E4_30_18,0.3,Busca Gulosa,68,24,64,True
+E4_30_18,0.3,A*,218,76,60,True
+E4_30_19,0.3,SdE Maior Aclive,20,8,32,True
+E4_30_19,0.3,Busca Gulosa,20,8,32,True
+E4_30_19,0.3,A*,44,19,32,True
+E4_40_00,0.4,SdE Maior Aclive,8,3,,False
+E4_40_00,0.4,Busca Gulosa,43,19,67,True
+E4_40_00,0.4,A*,197,82,66,True
+E4_40_01,0.4,SdE Maior Aclive,4,2,,False
+E4_40_01,0.4,Busca Gulosa,108,42,132,True
+E4_40_01,0.4,A*,168,69,116,True
+E4_40_02,0.4,SdE Maior Aclive,22,9,33,True
+E4_40_02,0.4,Busca Gulosa,22,9,33,True
+E4_40_02,0.4,A*,70,26,33,True
+E4_40_03,0.4,SdE Maior Aclive,1,1,,False
+E4_40_03,0.4,Busca Gulosa,45,20,74,True
+E4_40_03,0.4,A*,113,49,74,True
+E4_40_04,0.4,SdE Maior Aclive,1,1,,False
+E4_40_04,0.4,Busca Gulosa,85,37,117,True
+E4_40_04,0.4,A*,181,73,117,True
+E4_40_05,0.4,SdE Maior Aclive,19,7,,False
+E4_40_05,0.4,Busca Gulosa,64,26,77,True
+E4_40_05,0.4,A*,141,60,76,True
+E4_40_06,0.4,SdE Maior Aclive,24,10,42,True
+E4_40_06,0.4,Busca Gulosa,24,10,42,True
+E4_40_06,0.4,A*,119,45,40,True
+E4_40_07,0.4,SdE Maior Aclive,19,8,,False
+E4_40_07,0.4,Busca Gulosa,31,13,54,True
+E4_40_07,0.4,A*,110,41,51,True
+E4_40_08,0.4,SdE Maior Aclive,17,6,20,True
+E4_40_08,0.4,Busca Gulosa,17,6,20,True
+E4_40_08,0.4,A*,49,17,19,True
+E4_40_09,0.4,SdE Maior Aclive,12,5,18,True
+E4_40_09,0.4,Busca Gulosa,12,5,18,True
+E4_40_09,0.4,A*,24,10,18,True
+E4_40_10,0.4,SdE Maior Aclive,11,4,,False
+E4_40_10,0.4,Busca Gulosa,45,18,44,True
+E4_40_10,0.4,A*,71,29,44,True
+E4_40_11,0.4,SdE Maior Aclive,13,5,,False
+E4_40_11,0.4,Busca Gulosa,67,26,92,True
+E4_40_11,0.4,A*,118,46,90,True
+E4_40_12,0.4,SdE Maior Aclive,23,8,30,True
+E4_40_12,0.4,Busca Gulosa,23,8,30,True
+E4_40_12,0.4,A*,67,25,30,True
+E4_40_13,0.4,SdE Maior Aclive,31,11,,False
+E4_40_13,0.4,Busca Gulosa,37,14,50,True
+E4_40_13,0.4,A*,116,47,50,True
+E4_40_14,0.4,SdE Maior Aclive,20,8,32,True
+E4_40_14,0.4,Busca Gulosa,20,8,32,True
+E4_40_14,0.4,A*,78,30,32,True
+E4_40_15,0.4,SdE Maior Aclive,6,3,,False
+E4_40_15,0.4,Busca Gulosa,58,23,93,True
+E4_40_15,0.4,A*,202,81,91,True
+E4_40_16,0.4,SdE Maior Aclive,7,3,,False
+E4_40_16,0.4,Busca Gulosa,38,17,53,True
+E4_40_16,0.4,A*,99,41,53,True
+E4_40_17,0.4,SdE Maior Aclive,5,2,,False
+E4_40_17,0.4,Busca Gulosa,24,9,37,True
+E4_40_17,0.4,A*,61,25,35,True
+E4_40_18,0.4,SdE Maior Aclive,7,3,9,True
+E4_40_18,0.4,Busca Gulosa,7,3,9,True
+E4_40_18,0.4,A*,13,5,8,True
+E4_40_19,0.4,SdE Maior Aclive,20,7,,False
+E4_40_19,0.4,Busca Gulosa,68,26,58,True
+E4_40_19,0.4,A*,113,44,50,True

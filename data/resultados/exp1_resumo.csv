@@ -1,0 +1,7 @@
+variacao,heuristica,media_estados_gerados,media_estados_visitados,media_custo_total,qtd_execucoes,taxa_sucesso
+SdE Gulosa Deterministica,DE,15.2,4.2,34.667,15,0.2
+SdE Gulosa Deterministica,DM,39.733,11.667,48.133,15,1.0
+SdE Maior Aclive,DE,15.2,4.2,34.667,15,0.2
+SdE Maior Aclive,DM,39.733,11.667,48.133,15,1.0
+SdE Gulosa Estocastica,DE,15.2,4.2,34.667,15,0.2
+SdE Gulosa Estocastica,DM,41.133,11.667,47.6,15,1.0

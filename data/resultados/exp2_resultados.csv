@@ -1,0 +1,81 @@
+codigo_entrada,algoritmo,heuristica,estados_gerados,estados_visitados,custo_total,sucesso
+E2_00,Busca Gulosa,DE,36,10,49,True
+E2_00,Busca Gulosa,DM,36,10,49,True
+E2_00,A*,DE,320,85,38,True
+E2_00,A*,DM,295,78,38,True
+E2_01,Busca Gulosa,DE,44,12,50,True
+E2_01,Busca Gulosa,DM,44,12,52,True
+E2_01,A*,DE,513,134,48,True
+E2_01,A*,DM,456,118,48,True
+E2_02,Busca Gulosa,DE,64,17,66,True
+E2_02,Busca Gulosa,DM,64,17,68,True
+E2_02,A*,DE,668,176,53,True
+E2_02,A*,DM,658,173,53,True
+E2_03,Busca Gulosa,DE,80,21,99,True
+E2_03,Busca Gulosa,DM,80,21,90,True
+E2_03,A*,DE,820,219,75,True
+E2_03,A*,DM,808,216,75,True
+E2_04,Busca Gulosa,DE,55,15,65,True
+E2_04,Busca Gulosa,DM,55,15,65,True
+E2_04,A*,DE,549,145,56,True
+E2_04,A*,DM,505,133,56,True
+E2_05,Busca Gulosa,DE,44,12,47,True
+E2_05,Busca Gulosa,DM,44,12,43,True
+E2_05,A*,DE,459,119,42,True
+E2_05,A*,DM,409,106,42,True
+E2_06,Busca Gulosa,DE,64,17,69,True
+E2_06,Busca Gulosa,DM,64,17,73,True
+E2_06,A*,DE,741,196,59,True
+E2_06,A*,DM,719,189,59,True
+E2_07,Busca Gulosa,DE,23,7,25,True
+E2_07,Busca Gulosa,DM,23,7,24,True
+E2_07,A*,DE,109,31,23,True
+E2_07,A*,DM,101,28,23,True
+E2_08,Busca Gulosa,DE,16,5,17,True
+E2_08,Busca Gulosa,DM,16,5,17,True
+E2_08,A*,DE,87,23,17,True
+E2_08,A*,DM,68,18,17,True
+E2_09,Busca Gulosa,DE,40,11,48,True
+E2_09,Busca Gulosa,DM,40,11,48,True
+E2_09,A*,DE,278,74,38,True
+E2_09,A*,DM,255,68,38,True
+E2_10,Busca Gulosa,DE,20,6,19,True
+E2_10,Busca Gulosa,DM,20,6,16,True
+E2_10,A*,DE,96,25,16,True
+E2_10,A*,DM,72,19,16,True
+E2_11,Busca Gulosa,DE,28,8,25,True
+E2_11,Busca Gulosa,DM,28,8,27,True
+E2_11,A*,DE,138,37,23,True
+E2_11,A*,DM,123,33,23,True
+E2_12,Busca Gulosa,DE,6,3,8,True
+E2_12,Busca Gulosa,DM,6,3,8,True
+E2_12,A*,DE,13,5,8,True
+E2_12,A*,DM,13,5,8,True
+E2_13,Busca Gulosa,DE,44,12,45,True
+E2_13,Busca Gulosa,DM,40,11,47,True
+E2_13,A*,DE,309,82,39,True
+E2_13,A*,DM,295,78,39,True
+E2_14,Busca Gulosa,DE,71,19,80,True
+E2_14,Busca Gulosa,DM,63,18,83,True
+E2_14,A*,DE,700,186,65,True
+E2_14,A*,DM,653,173,65,True
+E2_15,Busca Gulosa,DE,20,6,26,True
+E2_15,Busca Gulosa,DM,20,6,24,True
+E2_15,A*,DE,195,50,24,True
+E2_15,A*,DM,171,44,24,True
+E2_16,Busca Gulosa,DE,30,9,37,True
+E2_16,Busca Gulosa,DM,28,9,39,True
+E2_16,A*,DE,160,44,30,True
+E2_16,A*,DM,154,42,30,True
+E2_17,Busca Gulosa,DE,60,16,69,True
+E2_17,Busca Gulosa,DM,56,15,63,True
+E2_17,A*,DE,731,193,57,True
+E2_17,A*,DM,726,191,57,True
+E2_18,Busca Gulosa,DE,28,8,34,True
+E2_18,Busca Gulosa,DM,28,8,32,True
+E2_18,A*,DE,244,63,29,True
+E2_18,A*,DM,209,54,29,True
+E2_19,Busca Gulosa,DE,52,14,59,True
+E2_19,Busca Gulosa,DM,52,14,59,True
+E2_19,A*,DE,572,151,59,True
+E2_19,A*,DM,515,136,59,True

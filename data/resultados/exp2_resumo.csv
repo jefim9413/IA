@@ -1,0 +1,5 @@
+algoritmo,heuristica,media_estados_gerados,media_estados_visitados,media_custo_total,qtd_execucoes,taxa_sucesso
+Busca Gulosa,DE,41.25,11.4,46.85,20,1.0
+Busca Gulosa,DM,40.35,11.25,46.35,20,1.0
+A*,DE,385.1,101.9,39.95,20,1.0
+A*,DM,360.25,95.1,39.95,20,1.0

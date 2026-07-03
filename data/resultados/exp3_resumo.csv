@@ -1,0 +1,7 @@
+heuristica,fator,media_estados_gerados,media_estados_visitados,media_custo_total,qtd_execucoes,taxa_sucesso
+h1_DEx1,1,243.95,79.65,49.05,20,1.0
+h2_DEx3,3,171.95,55.85,49.05,20,1.0
+h3_DEx6,6,70.95,22.6,49.6,20,1.0
+h4_DMx1,1,232.05,75.7,49.05,20,1.0
+h5_DMx3,3,136.95,44.25,49.05,20,1.0
+h6_DMx6,6,54.35,17.25,50.15,20,1.0
